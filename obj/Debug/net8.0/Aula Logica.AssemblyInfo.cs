@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula Logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25cbafd6bdbe1fdd6d474f72c51e753f0761cad4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a96e7603c5c232da9564e53448dd62b61997e4ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula Logica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula Logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

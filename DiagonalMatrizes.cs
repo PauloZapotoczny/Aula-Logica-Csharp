@@ -4,7 +4,7 @@ using System.Globalization;
 namespace Matrizes1;
 public class Matrizes1
 {
-    static void Main(string[] args)
+    static void Mat1(string[] args)
     {
         Console.Write("Qual a ordem da matriz? ");
         int N = int.Parse(Console.ReadLine());
