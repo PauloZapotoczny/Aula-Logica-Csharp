@@ -12,3 +12,4 @@ E:\Logica_Csharp\Aula Logica\Aula Logica\obj\Debug\net8.0\refint\Aula Logica.dll
 E:\Logica_Csharp\Aula Logica\Aula Logica\obj\Debug\net8.0\Aula Logica.pdb
 E:\Logica_Csharp\Aula Logica\Aula Logica\obj\Debug\net8.0\Aula Logica.genruntimeconfig.cache
 E:\Logica_Csharp\Aula Logica\Aula Logica\obj\Debug\net8.0\ref\Aula Logica.dll
+E:\Logica_Csharp\Aula Logica\Aula Logica\obj\Debug\net8.0\Aula Logica.sourcelink.json

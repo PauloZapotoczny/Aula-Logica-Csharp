@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Matrizes;
+namespace Retangulo;
 public class Retangulo
 {
     static void Ret(string[] args)

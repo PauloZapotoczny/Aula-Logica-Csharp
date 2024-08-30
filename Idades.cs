@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Matrizes;
+namespace Idades;
 public class Idades
 {
-    static void Main(string[] args)
+    static void Idade(string[] args)
     {
         Console.WriteLine("Dados da primeira pessoa: ");
         Console.Write("Nome: ");
